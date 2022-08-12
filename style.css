@@ -1,0 +1,58 @@
+body{
+
+  background-color: #EAE3D2;
+}
+
+.container-fluid{
+ padding-top:7%;
+ padding-bottom:7%;
+ padding-right: 10%; 
+ padding-left: 10%;
+color: white;
+}
+.col-lg-4{
+  height: 400px;
+ 
+  border-radius:25px;
+
+background-color: #000000;
+}
+.bigheading{
+  text-align: center;
+  font-size: 28px;
+  margin-top: 20px;
+}
+.smallheading{
+  text-align: center;
+}
+.fa-moon{
+  float: right;
+  margin-top: 5px;
+}
+.form-control{
+  background-color: rgb(231, 225, 225);
+  border: none;
+  border-radius: 18px;
+}
+.btn{
+  border: none;
+  border-radius: 18px;
+  background-color: #256D85;
+  margin-top: 20px;
+}
+.btn:hover{
+  background-color: #256D85;
+}
+p{
+  text-align: center;
+}
+
+.fa-face-grin-stars{
+  margin-left: 160px;
+  
+}
+a{
+  color: white;
+font-weight: bold;
+text-decoration: underline;
+}
